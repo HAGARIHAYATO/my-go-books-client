@@ -1,0 +1,19 @@
+{
+  "name": "goapp-client",
+  "version": "1.0.0",
+  "description": "My gnarly Nuxt.js project",
+  "author": "HAGARIHAYATO",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.9.2",
+    "nuxt": "^2.0.0",
+    "nuxt-buefy": "^0.3.2"
+  },
+  "devDependencies": {}
+}
