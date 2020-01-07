@@ -1,6 +1,6 @@
 <template>
     <section>
-        <h5 class="title">Welocome To Your Arrival</h5>
+        <h5 class="title">Welocome To This Site</h5>
         <p class="message">This Site is For Well Book Reader</p>
         <p class="message">{{ message }}</p>
         <div class="button-wrap">

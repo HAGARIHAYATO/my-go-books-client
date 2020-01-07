@@ -10,7 +10,7 @@
           class="navbar-item"
           href="/"
         >
-          TOP
+          <p class="navbar-item main-item">TECH BOOK SHELF</p>
         </a>
 
         <div class="navbar-burger">
@@ -71,5 +71,10 @@ export default {
 <style lang="css" scoped>
 .container{
   padding: 5%;
+}
+.main-item{
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: white;
 }
 </style>
